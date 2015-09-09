@@ -17,9 +17,6 @@ Move and resize windows with ease
 
 Url: http://spectacleapp.com/
 
-#Zsh/OhMyZSH
-Run this: curl -L http://install.ohmyz.sh | sh
-
 #iTerm2
 This is just a better terminal than the standard one that ships with OSX
 
